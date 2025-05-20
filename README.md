@@ -35,6 +35,5 @@ If this codebase is useful for your work, please cite the following papers:
   pages={1866--1873},
   year={2024},
   organization={IEEE}
-}````
-    }
+}
 ```
